@@ -1,0 +1,13 @@
+.emoji img{
+    display: block;
+    background-color: brown;
+    border: cornflowerblue;
+    padding: 20px;
+}
+.hug img{
+}
+.kissing img{
+    margin-left: 110px;
+}
+.hugging img{
+    margin-left: 220px;
